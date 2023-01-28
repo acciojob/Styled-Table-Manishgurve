@@ -3,14 +3,17 @@
     margin: 0;
     padding: 0;
 }
-
-.header{
-    background: white;
-   border: 2px solid gray;
+table{
+    width: 100%;
+     border-collapse:collapse;
 }
-.body{
-    width: 30%;
-    border-collapse:collapse;
-    
-    
-}
+th, td {
+    border: 1px solid black;
+    padding: 8px;
+    text-align: center;
+  }
+  
+  th {
+    background-color: #f2f2f2;
+  }
+  
