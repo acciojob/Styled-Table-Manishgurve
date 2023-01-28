@@ -1,1 +1,16 @@
 /* your code */
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.header{
+    background: white;
+   border: 2px solid gray;
+}
+.body{
+    width: 30%;
+    border-collapse:collapse;
+    
+    
+}
